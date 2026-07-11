@@ -1,4 +1,3 @@
-# tiny-backend
 # Tiny Backend API
 
 A simple backend API built with **FastAPI** as part of the **Backend AI Engineering** course.
@@ -20,7 +19,3 @@ tiny-backend/
 └── README.md
 ```
 
-
-## Author
-
-Kim
