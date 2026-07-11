@@ -1,6 +1,6 @@
 # Tiny Backend API
 
-A simple backend API built with **FastAPI** as part of the **Backend AI Engineering** course.
+A simple backend API built with **FastAPI**.
 
 ## Features
 
